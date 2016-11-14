@@ -14,8 +14,13 @@ public class GameController{
 		the player gives all the cards to player1	
 			}	
 		break/// this is when the player that was asked a card does not have it 
+				
+		The player that was asked would say( "go fish")
 			
-
+		player1 gets a card from the deck
+		if( card == to the card that was asked){
+		player1	asks( 
+		
 	}
 
 }
