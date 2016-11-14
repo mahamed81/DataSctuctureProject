@@ -1,4 +1,4 @@
 
-private class Node {
+private class Player {
 
 }
